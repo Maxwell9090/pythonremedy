@@ -1,0 +1,32 @@
+<svg width="454" height="150" viewBox="0 0 454 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_7_734)">
+<path d="M40 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M91.6664 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M143.333 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M194.999 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M246.665 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M298.331 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M349.998 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M401.664 0V120" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M40 120H453.33" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M40 96H453.33" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M40 72H453.33" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M40 48H453.33" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M40 24H453.33" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M40 0H453.33" stroke="white" stroke-opacity="0.2" stroke-dasharray="2 2"/>
+<path d="M40 92.4C91.6662 30 91.6662 30 91.6662 30C143.332 66 143.332 66 143.332 66C194.999 84 194.999 84 194.999 84C246.665 86.4 246.665 86.4 246.665 86.4C298.331 91.2 298.331 91.2 298.331 91.2C349.997 96 349.997 96 349.997 96C401.664 97.2 401.664 97.2 401.664 97.2" stroke="white" stroke-opacity="0.8" stroke-width="4"/>
+<path d="M40 92.4004H40.01" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+<path d="M91.6664 30H91.6764" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+<path d="M143.333 66H143.343" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+<path d="M194.999 84H195.009" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+<path d="M246.665 86.4004H246.675" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+<path d="M298.331 91.2002H298.341" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+<path d="M349.998 96H350.008" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+<path d="M401.664 97.2002H401.674" stroke="white" stroke-opacity="0.8" stroke-width="10" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_7_734">
+<rect width="453.33" height="150" fill="white"/>
+</clipPath>
+</defs>
+</svg>
